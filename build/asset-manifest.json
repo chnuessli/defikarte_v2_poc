@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.015862f1.css",
+    "main.js": "/static/js/main.56d02ed6.js",
+    "static/media/defi_logo.png": "/static/media/defi_logo.52d826bf85a237b4ddf6.png",
+    "static/media/Marker.png": "/static/media/Marker.0b4e8a19e0b0d7387bb5.png",
+    "static/media/test.png": "/static/media/test.86dfd49228beeb23b096.png",
+    "static/media/myMarker.png": "/static/media/myMarker.16e54b3a5d6897d9eebd.png",
+    "static/media/apple-touch-icon.png": "/static/media/apple-touch-icon.2a727ef652945efbb7ce.png",
+    "index.html": "/index.html",
+    "main.015862f1.css.map": "/static/css/main.015862f1.css.map",
+    "main.56d02ed6.js.map": "/static/js/main.56d02ed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.015862f1.css",
+    "static/js/main.56d02ed6.js"
+  ]
+}
